@@ -1,0 +1,8 @@
+<!--component/navHeader/navheader.wxml-->
+<view class="push-better">
+    <text class="title">{{title}}</text>
+    <view class="content">
+        <text class="push-for-you">{{desc}}</text>
+        <text class="look-more">查看更多</text>
+    </view>
+</view>

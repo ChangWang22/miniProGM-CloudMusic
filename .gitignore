@@ -1,0 +1,16 @@
+upload
+.idea
+.vscode
+npm-debug.log
+yarn-error.log
+dist
+www/*
+node_modules
+test
+coverage/
+coverage
+package-lock.json
+.cache
+.DS_Store
+www/
+*.log
